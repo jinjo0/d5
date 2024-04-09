@@ -2,7 +2,7 @@ import httpx
 import time
 import asyncio
 
-API_TOKEN = "7198969197:AAF6W3QO8b3H--2SlokRZ_meV6zjCzRySXQ"
+API_TOKEN = ""
 URL = f"https://api.telegram.org/bot{API_TOKEN}/sendMessage"
 CHAT_ID = "6184226708"
 
